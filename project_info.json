@@ -1,0 +1,14 @@
+{
+	"title-ja": "monaca-hello_world",
+	"title-en": "",
+	"description-ja": "Monaca\u306eHelloWorld\u306e\u30b5\u30f3\u30d7\u30eb\u30d7\u30ed\u30b8\u30a7\u30af\u30c8",
+	"description-en": "",
+	"category": "template",
+	"platform": [
+		"android",
+		"ios",
+		"winrt"
+	],
+	"name": "generated-20131008011249-5252da597e2193414ce2e736",
+	"version": 1
+}
